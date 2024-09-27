@@ -1,0 +1,14 @@
+{
+  "Roblox": {
+    "Cookies": ""
+  },
+  "Setting": {
+    "Boolean": false, 
+    "Prices": [65, 85, 99]
+  },
+  "Discord": {
+    "webhook": false,
+    "url": "",
+    "ping": ""
+  }
+}
